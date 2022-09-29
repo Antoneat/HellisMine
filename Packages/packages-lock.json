@@ -112,7 +112,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
     "com.unity.render-pipelines.core": {
       "version": "12.1.7",
       "depth": 1,
@@ -141,8 +140,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> parent of 562b95e (implementacion de rocas)
     "com.unity.services.core": {
       "version": "1.4.0",
       "depth": 1,
