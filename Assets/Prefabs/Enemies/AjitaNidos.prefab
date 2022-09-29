@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 541883159405294403}
   - component: {fileID: 1301272775931319253}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: AjitaNidos
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58,7 +58,7 @@ GameObject:
   - component: {fileID: 5642076969024493892}
   - component: {fileID: 4513514035137987433}
   - component: {fileID: 4253982474068477475}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: polySurface1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
